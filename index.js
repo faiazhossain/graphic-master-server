@@ -13,9 +13,19 @@ app.get("/", (req, res) => {
 app.get("/courses", (req, res) => {
   res.send(courses);
 });
+app.get("/courses/:id", (req, res) => {
+  const id = req.params.id;
+  const category_course = courseInfo.filter((c) => c.course_id === id);
+  res.send(category_course);
+});
+app.get("/courseInfo", (req, res) => {
+  res.send(courseInfo);
+});
 
 app.get("/courseInfo/:id", (req, res) => {
-  console.log(req.params);
+  const id = req.params.id;
+  const selectedCourse = courseInfo.find((c) => c.id === id);
+  res.send(selectedCourse);
 });
 
 app.listen(port, () => {

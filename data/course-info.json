@@ -1,44 +1,50 @@
 [
   {
     "id": "63589168ca4359bc887fe906",
+    "price": "15",
     "course_id": "01",
-    "picture": "http://placehold.it/32x32",
-    "name": "Catalina Rodgers",
-    "about": "Labore aliquip ut adipisicing adipisicing pariatur. Excepteur minim ullamco fugiat excepteur culpa. Nisi Lorem veniam ipsum ut ipsum exercitation. Nisi eu adipisicing esse aliqua quis tempor ex reprehenderit non non aliqua aute.\r\n"
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/768px-Adobe_Illustrator_CC_icon.svg.png?20220814183839",
+    "name": "Adobe Illustrator",
+    "about": "To master Adobe Illustrator will take around six to seven months if you consistently practice. Learning the basics takes between two to three weeks to learn. From there, you can explore the possibilities of Illustrator & practice the techniques provided by tutorials & other Illustrator users\r\n"
   },
   {
     "id": "635891681863a28ea6256894",
+    "price": "25",
     "course_id": "02",
-    "picture": "http://placehold.it/32x32",
-    "name": "Washington Skinner",
-    "about": "Quis nulla incididunt nisi proident sunt reprehenderit culpa pariatur irure nostrud eu magna. Et cillum anim sint laboris pariatur. Deserunt sunt aliquip laborum dolore deserunt ea aliqua nulla exercitation officia. Aliquip culpa sit ullamco sit. Et dolor reprehenderit sunt tempor amet pariatur elit ea do sunt consectetur id do. Consequat in fugiat aliqua culpa ullamco aliquip nostrud cupidatat ea nostrud occaecat deserunt fugiat.\r\n"
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png",
+    "name": "Adobe Premiere Pro",
+    "about": "A good place to start is by learning directly from the software's maker. Adobe offers over a hundred video tutorials on its site (opens in new tab), and there are options for both for beginners and experienced users who are already familiar with Premiere Pro.\r\n"
   },
   {
     "id": "63589168b6432a8145f32e50",
+    "price": "18",
     "course_id": "03",
-    "picture": "http://placehold.it/32x32",
-    "name": "Sheree Daugherty",
-    "about": "Culpa dolore nisi reprehenderit proident commodo nostrud. Sunt aliquip exercitation dolor in amet occaecat aliquip aliquip magna quis dolor. Irure laborum id labore irure sint commodo sint ut. Nulla fugiat nisi id ex cupidatat. Ipsum eu quis in nostrud adipisicing ipsum est incididunt veniam nostrud magna.\r\n"
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png",
+    "name": "Adobe After Effects",
+    "about": "Adobe After Effects is a digital visual effects, motion graphics, and compositing application developed by Adobe Systems and used in the post-production process of film making, video games and television production.\r\n"
   },
   {
     "id": "63589168e584a542db7bfe92",
+    "price": "22",
     "course_id": "04",
-    "picture": "http://placehold.it/32x32",
-    "name": "Tanya Ortega",
-    "about": "Lorem amet occaecat commodo ad incididunt irure exercitation duis cupidatat anim cillum id ea. Dolore labore cillum nulla consectetur pariatur. Commodo eu exercitation aliquip quis amet anim aliquip esse eu deserunt officia non enim exercitation. Sit mollit irure elit do eu fugiat consectetur id cupidatat laboris incididunt deserunt.\r\n"
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/2101px-Adobe_Audition_CC_icon_%282020%29.svg.png",
+    "name": "Adobe Audition",
+    "about": "Adobe Audition is a stand-alone audio editing and sound-mixing program that allows you to edit and apply effects to the audio from video footage. Audition includes multitrack, waveform, and spectral display for creating, mixing, editing, and restoring audio content.\r\n"
   },
   {
     "id": "635891686bfcbcd76447a253",
+    "price": "20",
     "course_id": "05",
-    "picture": "http://placehold.it/32x32",
-    "name": "Arlene Fleming",
-    "about": "Eiusmod in nulla et sint dolor culpa culpa sint ea Lorem incididunt do in. Ea duis ea quis duis elit ut quis adipisicing. Ex cupidatat sint id aliquip.\r\n"
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png",
+    "name": "Adobe Photoshop",
+    "about": "Experiment with the different tools and features to see what they do. And don't be afraid to make mistakes – everyone learns by trial and error. PRO TIP: No, Photoshop cannot be self-taught. The program is extremely complex and requires a great deal of training and practice to master.\r\n"
   },
   {
     "id": "635891680b1e5b139f976ee9",
+    "price": "10",
     "course_id": "06",
-    "picture": "http://placehold.it/32x32",
-    "name": "Maggie Rivera",
-    "about": "Irure ullamco anim Lorem esse anim ex adipisicing cillum. Deserunt reprehenderit do aliqua voluptate. Voluptate officia sint incididunt tempor nulla do occaecat quis labore. Ad commodo dolore cupidatat culpa exercitation cillum ullamco deserunt. Deserunt dolor in Lorem adipisicing.\r\n"
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png",
+    "name": "Adobe XD",
+    "about": "In just around 1 hour and a half you will be able to learn everything you need to start creating beautiful designs in Adobe XD, turning your ideas into reality and being able to perform efficiently at your job or in your freelance practice.\r\n"
   }
 ]

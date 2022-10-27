@@ -1,26 +1,26 @@
 [
   {
     "id": "01",
-    "name": "Breaking News"
+    "name": "Illustrator"
   },
   {
     "id": "02",
-    "name": "Regular News"
+    "name": "Premiere Pro"
   },
   {
     "id": "03",
-    "name": "International News"
+    "name": "After Effects"
   },
   {
     "id": "04",
-    "name": "Sports"
+    "name": "Audition"
   },
   {
     "id": "05",
-    "name": "Entertainment"
+    "name": "Photoshop"
   },
   {
     "id": "06",
-    "name": "Culture"
+    "name": "Adobe XD"
   }
 ]
