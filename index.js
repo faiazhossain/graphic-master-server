@@ -17,6 +17,15 @@ app.get("/courses/:id", (req, res) => {
   const category_course = courseInfo.filter((c) => c.course_id === id);
   res.send(category_course);
 });
+app.get("/courseInfo", (req, res) => {
+  res.send(courseInfo);
+});
+
+app.get("/courseInfo/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedCourse = courseInfo.find((c) => c.id === id);
+  res.send(selectedCourse);
+});
 
 app.listen(port, () => {
   console.log("Graphic Master Server running on port", port);
